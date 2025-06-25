@@ -2,5 +2,5 @@
 - 👋 Hi, I’m @2013ZRZ
 - 🎈 I come from China
 - ✨ I'm a 12-year-old student
-  ![Icons](https://mobaicons.com/icons/bash,c,cpp,csharp,debian,git,github,json,markdown,python?perline=10)
+- ![Icons](https://mobaicons.com/icons/bash,c,cpp,csharp,debian,git,github,json,markdown,python?perline=10)
 - 🏃🏻‍♂️ Still learning...
