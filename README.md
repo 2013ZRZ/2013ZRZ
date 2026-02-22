@@ -1,6 +1,8 @@
-English | [简体中文](https://github.com/2013ZRZ/2013ZRZ/blob/main/README_zh-cn.md)
-- 👋 Hi, I’m @2013ZRZ
+English | [简体中文](./README_zh-cn.md)
+- 👋 Hi, I’m ZRZ
 - 🎈 I come from China
-- ✨ I'm a 12-year-old student
-- ![Icons](https://mobaicons.com/icons/bash,c,cpp,csharp,debian,git,github,json,markdown,python?perline=5)
+- ✨ I'm a 13-year-old student
+- ![Icons](https://mobaicons.com/icons/bash,c,cpp,debian,git,github,json,markdown,python?perline=5)
 - 🏃🏻‍♂️ Still learning...
+
+You can also find me on [Gitee](https://gitee.com/zrz2013).
